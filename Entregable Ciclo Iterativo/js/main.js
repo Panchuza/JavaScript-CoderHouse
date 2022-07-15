@@ -42,14 +42,12 @@ i++;
 //Ejercicio 3 Pedir un número por prompt, 
 //repetir la salida del mensaje “Hola” la cantidad de veces ingresada.
 
-/*
 let numberRep = prompt("Ingrese la cantidad de veces que quiere repetir '¡Hola!' : ");
 
 for (let i = 1; i <= numberRep; i++) {
     alert("¡Hola! numero: #" + i);
 }
 
-*/
 
 //Fin Ejercicio 3
 
